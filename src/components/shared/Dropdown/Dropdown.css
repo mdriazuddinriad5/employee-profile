@@ -1,0 +1,15 @@
+.menu {
+    border-radius: var(--1, 8px);
+    border: 1px solid var(--Grey-300, #B1B1B1);
+    transition: border-color 0.3s;
+
+
+    &:hover {
+        cursor: pointer;
+    }
+
+    &:focus {
+        outline: none;
+        border: 1px solid var(--Grey-300, #353535);
+    }
+}

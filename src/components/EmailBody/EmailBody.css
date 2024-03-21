@@ -1,0 +1,12 @@
+.email-body-container {
+    position: relative;
+    height: 300px; /* Set your desired height */
+}
+
+/* EmailBody.css */
+.react-quill .ql-toolbar {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}

@@ -7,9 +7,10 @@ const Home = () => {
             container
             // justifyContent="center"
             // alignItems="center"
-            paddingTop={6}
-            paddingLeft={25}
-            paddingRight={10}
+            // paddingTop={6}
+            // paddingLeft={25}
+            // paddingRight={10}
+            padding={4}
             style={{  flexDirection: 'column' }}
         >
             <EmployeeProfile></EmployeeProfile>
